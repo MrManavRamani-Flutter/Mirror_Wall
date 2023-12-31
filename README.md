@@ -11,19 +11,35 @@ https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/84089b47-b
 ## Getting Started
 
 Screen Shots.......
-![Screenshot_2023-12-31-19-03-12-71_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/98af1f1c-920e-4ee3-89ad-99eb7a753263)
+1.
+![Screenshot_2023-12-31-19-02-53-15_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/a1e58bb1-c18f-4ee6-a3a1-46c3bec9f580)
+2.
+![Screenshot_2023-12-31-19-02-59-26_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/ba4dc2cd-8675-4ac6-8b51-e8b1ad01bbba)
+3.
+![Screenshot_2023-12-31-19-03-04-10_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/d582c31c-77c9-4f08-938a-026a87d9a8c3)
+4.
+![Screenshot_2023-12-31-19-03-08-98_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/7aad509c-2d2a-4816-a4be-f5621998aa72)
+5.
+![Screenshot_2023-12-31-19-03-16-60_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/8aa3ee08-5427-4ea4-9ade-7a761073ec63)
+6.
+![Screenshot_2023-12-31-19-03-12-71_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/fe775976-1d94-4363-b80d-819b90902486)
+7.
+![Screenshot_2023-12-31-19-04-13-14_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/3d1bb0ad-2af0-4863-93cb-e879c987ff65)
+![Screenshot_2023-12-31-19-04-18-06_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/e9760563-15d9-43ba-b8c9-88b37dcc64df)
+8.
+![Screenshot_2023-12-31-19-03-42-26_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/8f6693a7-2f2a-4870-acb6-a9e1c9c9b031)
+![Screenshot_2023-12-31-19-03-31-97_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/e66d7149-b6e1-4bf7-bee6-6e5d1b62fdc5)
+![Screenshot_2023-12-31-19-04-00-39_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/78f0827e-22c6-4674-a4a9-3f8399da42df)
 
-![Screenshot_2023-12-31-19-03-04-10_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/0a63d2c4-f10d-49b4-93cc-26d37cf4c25d)
-![Screenshot_2023-12-31-19-02-59-26_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/762c0855-c26b-4fd3-a311-14079844474c)
-![Screenshot_2023-12-31-19-03-16-60_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/7fcb0024-11f2-4653-8d30-14cfb0b97956)
-![Screenshot_2023-12-31-19-03-31-97_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/afee5823-4722-4b5c-9ff6-c8d73746ce58)
-![Screenshot_2023-12-31-19-04-00-39_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/3d7fb6c6-b669-407b-8c0e-a7a027b2fb55)
-![Screenshot_2023-12-31-19-04-13-14_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/b220c444-d1b6-42be-8cea-215b0748bd1e)
-![Screenshot_2023-12-31-19-04-18-06_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/3fd07d1a-4e64-4327-9c86-d7f601234493)
-![Screenshot_2023-12-31-19-04-32-39_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/c2baf5e5-1181-4494-85c5-2451a8907e3e)
-![Screenshot_2023-12-31-19-04-25-33_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/833a9475-b153-4a4c-81c1-c34ce0b421be)
-![Screenshot_2023-12-31-19-03-42-26_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/b74b64aa-ffbe-4ae0-8331-aa6b0d9e7211)
-![Screenshot_2023-12-31-19-02-53-15_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/49d720b2-0880-4f08-9d59-702968bd9f75)
+9.
+![Screenshot_2023-12-31-19-04-13-14_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/53601060-2d0f-487e-9920-09b65696bbe3)
+
+10.
+![Screenshot_2023-12-31-19-04-18-06_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/8897f67b-632f-4f3e-ac98-3b60fa50bb86)
+
+11.
+![Screenshot_2023-12-31-19-04-25-33_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/411adc7c-2ab3-4828-8e37-16c7fb09a1fe)
+![Screenshot_2023-12-31-19-04-32-39_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/d7e19a2a-1c61-4101-b3ff-3a58451eb91d)
 
 This project is a starting point for a Flutter application.
 

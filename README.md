@@ -22,7 +22,6 @@ Screen Shots.......
 ![Screenshot_2023-12-31-19-04-32-39_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/c2baf5e5-1181-4494-85c5-2451a8907e3e)
 ![Screenshot_2023-12-31-19-04-25-33_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/833a9475-b153-4a4c-81c1-c34ce0b421be)
 ![Screenshot_2023-12-31-19-03-42-26_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/b74b64aa-ffbe-4ae0-8331-aa6b0d9e7211)
-![Snapchat-168499037](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/4be8921b-6358-4a5e-932c-1c1634b2218d)
 ![Screenshot_2023-12-31-19-03-12-71_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/98af1f1c-920e-4ee3-89ad-99eb7a753263)
 ![Screenshot_2023-12-31-19-02-53-15_a545063abdd6052b59263c194ee79756](https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/49d720b2-0880-4f08-9d59-702968bd9f75)
 

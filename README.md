@@ -4,7 +4,6 @@ A new Flutter project.
 Video of this Application...
 
 
-https://github.com/MrManavRamani-Flutter/Mirror_Wall/assets/148671843/5131e300-c605-4cef-b4bd-364640819c15
 
 
 

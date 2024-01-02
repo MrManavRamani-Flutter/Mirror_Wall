@@ -15,10 +15,6 @@ class CatProvider extends ChangeNotifier {
     _webViewController = controller;
   }
 
-  Future<void> delayedTask() async {
-    await Future.delayed(const Duration(seconds: 3));
-  }
-
   void reloadWebView() {
     if (_webViewController != null) {
       _webViewController.reload();

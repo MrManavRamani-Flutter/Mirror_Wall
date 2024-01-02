@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
             routes: {
               '/': (context) => const HomePage(),
               'welcome_screen': (context) => const WelcomeScreen(),
-              'web_cat': (context) => const WebCategory(),
+              // 'web_cat': (context) => const WebCategory(),
               'bookmark': (context) => const BookmarkDesign(),
             },
           );

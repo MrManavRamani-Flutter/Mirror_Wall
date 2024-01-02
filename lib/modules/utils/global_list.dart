@@ -3,7 +3,17 @@ import 'package:mirror_wall/modules/models/web_list_model.dart';
 class Global {
   static List<Map<String, dynamic>> webList = [
     {
-      'id': 1,
+      'title': 'Search Engine',
+      'img': 'assets/img/search_logo_3.png',
+      'cat1': [
+        WebListModel(subTitle: 'Google', link: 'https://www.google.com'),
+        WebListModel(subTitle: 'Bing', link: 'https://www.bing.com'),
+        WebListModel(subTitle: 'DuckDuckGo', link: 'https://duckduckgo.com/'),
+        WebListModel(
+            subTitle: 'Yahoo!', link: 'https://in.search.yahoo.com/?fr2=inr'),
+      ],
+    },
+    {
       'title': 'Educational Websites',
       'img': 'assets/img/education_logo_1.png',
       'cat1': [
@@ -28,7 +38,6 @@ class Global {
       ],
     },
     {
-      'id': 2,
       'title': 'OTTs Websites',
       'img': 'assets/img/ott_logo_2.png',
       'cat1': [

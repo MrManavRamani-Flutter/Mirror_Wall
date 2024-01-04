@@ -6,8 +6,16 @@ import 'package:mirror_wall/modules/views/componets/design_cat_list.dart';
 import 'package:mirror_wall/modules/views/componets/web_cat/design_cat_web.dart';
 import 'package:provider/provider.dart';
 
-class HomePage extends StatelessWidget {
+class HomePage extends StatefulWidget {
   const HomePage({super.key});
+
+  @override
+  State<HomePage> createState() => _HomePageState();
+}
+
+class _HomePageState extends State<HomePage> {
+  TextEditingController searchController = TextEditingController();
+  final String initialUrl = 'https://www.google.com/';
 
   @override
   Widget build(BuildContext context) {
@@ -17,6 +25,12 @@ class HomePage extends StatelessWidget {
         title: const Text('Web View Data'),
         centerTitle: true,
         actions: [
+          IconButton(
+            onPressed: () {
+              Navigator.of(context).pushNamed('search');
+            },
+            icon: const Icon(Icons.search_sharp),
+          ),
           Switch(
             value: !themePro.isLite,
             onChanged: (val) => themePro.themeCheck(),
@@ -49,8 +63,8 @@ class HomePage extends StatelessWidget {
               onTap: () {
                 Navigator.of(context).pushNamed('bookmark');
               },
-              leading: Icon(Icons.bookmark_border),
-              title: Text('Bookmarks'),
+              leading: const Icon(Icons.bookmark_border),
+              title: const Text('Bookmarks'),
             ),
             ListTile(
               leading: const Icon(Icons.settings),
@@ -61,9 +75,8 @@ class HomePage extends StatelessWidget {
         ),
       ),
       body: SingleChildScrollView(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: Global.webList.map(
+        child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          ...Global.webList.map(
             (e) {
               List<WebListModel> subCat = e['cat1'];
               return Column(
@@ -81,7 +94,7 @@ class HomePage extends StatelessWidget {
               );
             },
           ).toList(),
-        ),
+        ]),
       ),
     );
   }

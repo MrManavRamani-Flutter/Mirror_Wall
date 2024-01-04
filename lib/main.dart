@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:mirror_wall/modules/providers/cat_provider/cat_provider.dart';
+import 'package:mirror_wall/modules/providers/search_provider/search_provider.dart';
 import 'package:mirror_wall/modules/providers/theme/theme_chenge_app_provider.dart';
 import 'package:mirror_wall/modules/views/screens/bookmark.dart';
-import 'package:mirror_wall/modules/views/screens/category_web/web_category.dart';
 import 'package:mirror_wall/modules/views/screens/home_page.dart';
 import 'package:mirror_wall/modules/views/screens/splash_screen/welcome_screen.dart';
+import 'package:mirror_wall/modules/views/screens/web_page_detail/search_web.dart';
 import 'package:provider/provider.dart';
 
 void main() {
@@ -19,7 +20,12 @@ class MyApp extends StatelessWidget {
     return MultiProvider(
         providers: [
           ChangeNotifierProvider(create: (context) => ThemeChangeAppProvider()),
-          ChangeNotifierProvider(create: (context) => CatProvider()),
+          ChangeNotifierProvider(
+            create: (context) => CatProvider(),
+          ),
+          ChangeNotifierProvider(
+            create: (context) => SearchProvider(),
+          ),
         ],
         builder: (context, _) {
           return MaterialApp(
@@ -32,8 +38,8 @@ class MyApp extends StatelessWidget {
             initialRoute: 'welcome_screen',
             routes: {
               '/': (context) => const HomePage(),
+              'search': (context) => SearchWeb(),
               'welcome_screen': (context) => const WelcomeScreen(),
-              // 'web_cat': (context) => const WebCategory(),
               'bookmark': (context) => const BookmarkDesign(),
             },
           );

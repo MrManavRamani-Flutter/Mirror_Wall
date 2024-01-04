@@ -18,6 +18,8 @@ class _SearchWebState extends State<SearchWeb> {
   String selectedSearchEngine = 'google';
   @override
   Widget build(BuildContext context) {
+    Provider.of<SearchProvider>(context, listen: false)
+        .searching(searchedText, selectedSearchEngine);
     return Scaffold(
       appBar: AppBar(
         title: const Text('Web View'),
@@ -116,7 +118,11 @@ class _SearchWebState extends State<SearchWeb> {
               child: InAppWebView(
                 initialUrlRequest: URLRequest(
                   url: WebUri.uri(
-                    Uri.parse("https://www.google.com"),
+                    Uri.parse(
+                        Provider.of<SearchProvider>(context, listen: false)
+                            .searchUrl
+                        // "https://www.google.com"
+                        ),
                   ),
                 ),
                 onWebViewCreated: (InAppWebViewController controller) {
